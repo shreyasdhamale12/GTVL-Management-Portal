@@ -1,4 +1,4 @@
-# **(Bug report is written in taskReports.md)**
+# **(Bug report is written in tasksReports.md)**
 
 ## GTVL is best known for our quality and speed-to-market techniques. As of now we deal with following departments:
 
